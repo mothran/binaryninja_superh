@@ -1,5 +1,7 @@
 # SuperH (SH1/SH2/SH3/SH4) Architecture plugin for BinaryNinja
 
+## Currrent status: IN DEVELOPMENT, mostly broken
+
 ## Regenerate opcode tables:
 
 ```bash
